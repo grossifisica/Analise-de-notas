@@ -1,0 +1,6 @@
+{
+  "name": "Análise de Frequência e Médias",
+  "description": "Planilha estilo Excel para entrada de sequências de valores com gráfico de distribuição de frequências e análise de valores acima, iguais e abaixo do valor de interesse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
